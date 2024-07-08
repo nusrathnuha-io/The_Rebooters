@@ -1,0 +1,7 @@
+10.0
+10.0
+3
+3 3 glass
+7 7 concrete_wall
+2 2 8 8 brick
+5 1 2 2 wood

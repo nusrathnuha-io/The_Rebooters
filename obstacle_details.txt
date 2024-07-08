@@ -1,0 +1,16 @@
+Obstacles:
+Name: Large Cabinets, Type: Wood, Coordinates: (1, 1)
+Name: Bookshelves, Type: Steel, Coordinates: (1, 8.5)
+Name: Bookshelves, Type: Wood, Coordinates: (9, 3)
+Name: Large Cabinets, Type: Steel, Coordinates: (9, 9)
+
+Walls:
+Type: concrete, Start: (0.081119537353516, 2.075), End: (2.0061195373535, 2.1)
+Type: concrete, Start: (1.9686195373535, 0.0625), End: (1.9811195373535, 1.5375)
+Type: wood, Start: (7.0186195373535, 3.025), End: (9.8936195373535, 3.0625)
+Type: concrete, Start: (6.9936195373535, 0.125), End: (7.0061195373535, 2.4375)
+Type: glass, Start: (0.10611953735352, 4.979166674614), End: (2.1875, 4.9375)
+Type: brick, Start: (2.1686195373535, 3.0875), End: (2.1811195373535, 4.9)
+Type: wood, Start: (0.093619537353516, 7.0666667938232), End: (2.9436195373535, 7.0541667938232)
+Type: glass, Start: (2.8936195373535, 7.6291667938232), End: (2.8875, 9.9375)
+Type: concrete, Start: (5.9936195373535, 6.0875), End: (5.9936195373535, 9.8875)
